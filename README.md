@@ -22,11 +22,7 @@ This C# script automates the process of migrating contacts from HubSpot to Fresh
 
 - Freshworks CRM API Key
 
-- NuGet packages:
-
-  - Newtonsoft.Json
-
-  - RestSharp
+- NuGet packages: Newtonsoft.Json and RestSharp
 
 ## Configuration
 
@@ -116,6 +112,3 @@ Contributions to improve the script or extend its functionality are welcome. Ple
 
 This script is provided as-is. Make sure to test it thoroughly with a small dataset before running it on your entire database. Always ensure you have backups of your data before performing any migration.
 
-## License
-
-[MIT License](LICENSE)
